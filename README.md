@@ -21,7 +21,7 @@ Main three lambda functions:
 * The Filtering Low-Confidence Inferences takes the inference data from 2 and filters only the images that meet the defined threshold.
 
 ## Results
-1. The image classification model had a test accuracy of 0.82.
+1. The image classification model had a test accuracy of 0.848.
 2. The Final Step Function: <br>
 ![image](https://user-images.githubusercontent.com/40635600/193429285-0a3ce3f4-0812-4c43-a59c-889a1667dab9.png)
 3. The Step Function indicates success when the prediction probability exceeds the acceptance threshold:
